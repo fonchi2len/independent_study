@@ -1,0 +1,525 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      //"url": "https://youglish.com/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        //"target": "https://youglish.com/pronounce/{search_term_string}/english",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+<title>Improve your English pronunciation using YouTube</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<!--
+<link rel="alternate" hreflang="x-default" href="https://youglish.com/" />
+<link rel="alternate" hreflang="en" href="https://youglish.com/" />
+<link rel="alternate" hreflang="fr" href="https://fr.youglish.com/" />
+<link rel="alternate" hreflang="es" href="https://es.youglish.com/" />
+<link rel="alternate" hreflang="de" href="https://de.youglish.com/" />
+<link rel="alternate" hreflang="it" href="https://it.youglish.com/" />
+<link rel="alternate" hreflang="pt" href="https://pt.youglish.com/" />
+<link rel="alternate" hreflang="ar" href="https://ar.youglish.com/" />
+<meta name="robots" content="noydir, noodp">
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://youglish.com" />
+<meta property="og:title" content="Improve Your English Pronunciation" />
+<meta property="og:image" content="https://youglish.com/images/fb6.jpg" />
+-->
+<meta property="og:description" content="When words sound different in isolation vs. in a sentence, look up the pronunciation first in a dictionary, then use https://youglish.com" />
+<meta property="fb:app_id" content="985375064853327">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/images/logo.png" />
+<link rel="shortcut icon" type="image/x-icon" href="/images/logo.png" />
+<meta name="description" content="Use YouTube to improve your English pronunciation. Real people, real situations.">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/public/bundle.min__4.3__.css" type="text/css" />
+
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<style>
+.cls{
+	color:#ffaf74;
+}
+
+.search .well {
+  padding: 16px 19px 15px;
+}
+
+.index_bottom_ad{
+	padding-top:40px;
+}
+
+@media (max-width: 990px) {
+	.index_bottom_ad{
+		padding-top:0px;
+	}
+}
+
+
+</style>
+<script>
+
+	if ( window.self !== window.top ) {
+	    top.location.replace(document.location);
+	}
+
+	function width(){
+		var w = window,
+		d = document,
+		e = d.documentElement,
+		g = d.getElementsByTagName('body')[0];
+		return w.innerWidth || e.clientWidth || g.clientWidth;
+	}
+</script>
+<script data-ad-client="ca-pub-4884889260645232" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<style>
+
+	header>.navbar.navbar-preheader .navbar-toggle{
+	    background-color:  #111;
+	}
+
+	.navbar-preheader .navbar-toggle {
+	    background-color: #111;
+	}
+
+	.navbar-preheader .navbar-default .navbar-toggle {
+	    background-color: #111;
+	}
+
+	.navbar-default .navbar-toggle .icon-bar {
+	    background-color: #bfbfbf;
+	}
+
+
+	.navbar-preheader .navbar-toggle:hover {
+	    background-color: #111;
+	}
+
+	.navbar-preheader .navbar-toggle:hover .icon-bar {
+	    background-color: #bfbfbf;
+	}
+
+	iframe[id^='twitter-widget-']{ width:68px !important;margin-bottom:5px;}
+
+	.navbar-default {
+			background: #111;
+			border-color: #111;
+
+	}
+
+	#h_login{
+	 user-select: none;
+   -moz-user-select: none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+   -o-user-select: none;
+	}
+
+	#h_login a{
+			color:#bfbfbf;
+	}
+
+	#h_login a:hover{
+			color:white;
+	}
+
+
+
+</style>
+<style>
+
+
+footer {
+		background-color: #111;
+		color:#bfbfbf;
+}
+
+
+footer .container ul li a{
+    white-space: nowrap;
+		color:#bfbfbf;
+}
+
+footer .container ul li a:hover{
+		color:white;
+}
+
+footer .footer_langs em {
+	color:#809ebd;
+}
+
+
+</style>
+</head>
+<body>
+<header>
+<div style='border-radius: 0px;' class="navbar navbar-preheader navbar-default" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="https://youglish.com"><img width=20 height=20 alt="Largest English pronunciation resource on the web. How to pronounce any word in English. YouGlish" src="/images/brandyg.png"></a>
+</div>
+<div class="collapse navbar-collapse">
+<ul id='h_login' style='padding:0px' class="lul nav navbar-nav">
+<li><a href="/getbyid/15819690/great%20power/english">Last query</a></li>
+<li><a href="/login">Login</a></li>
+<li><a href="/signup">Sign up</a></li>
+<li><a href="/lesson">Daily Lessons</a></li>
+<li><a href="/submit">Submit</a></li>
+<li><a href="/api/doc/widget">Get your widget</a></li>
+<li><a class="donation" href="/donations">Donate!</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+
+<li>
+<a data-count="none" href="https://twitter.com/share" class="twitter-share-button" data-url="https://youglish.com" data-text="Check out:"></a>
+</li>
+
+<li>
+<div style='margin-top:5px;' id="fb-root"></div>
+<div class="fb-share-button" data-href="https://youglish.com" data-layout="button"></div>
+</li>
+</ul>
+</div>
+ </div>
+</div>
+</header>
+<div class="index container">
+<div class=raw>
+<div style='padding: 0px' class="col-md-9">
+<script>
+function triggerLangPanel(close){
+	if (close){
+		$('#lang_sel').hide();
+	}
+	else {
+		$('#lang_sel').slideToggle(100);
+	}
+}
+
+function onLanguageChange(bIgnore, path){
+		if (bIgnore) return;
+	  window.location.href = path;
+}
+</script>
+<div class="search">
+<div class='ygSearch well theme_light toggle-light-listener'>
+
+<div style='display:flex' class="unselectable brand">
+<div>
+<a class='brand nodec' href='https://youglish.com'>
+<img alt="Largest English pronunciation resource on the web. How to pronounce any word in English. YouGlish" src='/images/logo_en.png' />
+</a>
+</div>
+<div>
+&nbsp;for&nbsp;
+</div>
+<div id='lang_pan_sel'>
+<div onclick='triggerLangPanel(false)' class='unselectable hand'>
+<b>English</b> <span>&#9660;</span>
+</div>
+<div id="lang_sel">
+<div>
+<ul>
+<li class='hand' onclick='onLanguageChange(false, "/arabic");'>
+&#8226; Arabic
+<li class='hand' onclick='onLanguageChange(false, "/chinese");'>
+&#8226; Chinese
+<li class='hand' onclick='onLanguageChange(false, "/dutch");'>
+&#8226; Dutch
+<li class='selected' onclick='onLanguageChange(true, "/");'>
+&#8226; English
+<li class='hand' onclick='onLanguageChange(false, "/french");'>
+&#8226; French
+<li class='hand' onclick='onLanguageChange(false, "/german");'>
+&#8226; German
+<li class='hand' onclick='onLanguageChange(false, "/greek");'>
+&#8226; Greek
+<li class='hand' onclick='onLanguageChange(false, "/hebrew");'>
+&#8226; Hebrew
+<li class='hand' onclick='onLanguageChange(false, "/italian");'>
+&#8226; Italian
+<li class='hand' onclick='onLanguageChange(false, "/japanese");'>
+&#8226; Japanese
+<li class='hand' onclick='onLanguageChange(false, "/korean");'>
+&#8226; Korean
+<li class='hand' onclick='onLanguageChange(false, "/polish");'>
+&#8226; Polish
+<li class='hand' onclick='onLanguageChange(false, "/portuguese");'>
+&#8226; Portuguese
+<li class='hand' onclick='onLanguageChange(false, "/russian");'>
+&#8226; Russian
+<li class='hand' onclick='onLanguageChange(false, "/spanish");'>
+&#8226; Spanish
+<li class='hand' onclick='onLanguageChange(false, "/turkish");'>
+&#8226; Turkish
+<li class='hand' onclick='onLanguageChange(false, "/signlanguage");'>
+&#8226; Sign Languages
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<form id="gform" action="/" method="get">
+<div class="input-group input-group-lg">
+<input class="form-control input-lg noBorder" style='background-color:white;' value="" id="q" type="text" autocomplete="off" placeholder="Search for...">
+<span class="input-group-btn">
+<button id='searchbut' type='button' data-lang="0" data-accent="0" style='color:white;background-color:#C11615' class="btn btn-lg btn-default">
+<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+<span id='btxt'>Say it!</span>
+</button>
+</span>
+</div>
+<div class='accent'>
+<div id='accentgrp' class="btn-group" data-toggle="buttons">
+<label title="All accents" id="id_ac_1" style='' data-lang="0" data-accent="0" class="btn_acc btn btn-default active">
+<input type="radio">All
+</label>
+<label title="US accent" id="id_ac_2" style='' data-lang="0" data-accent="1" class="btn_acc btn btn-default ">
+<input type="radio">US
+</label>
+<label title="UK accent" id="id_ac_4" style='' data-lang="0" data-accent="2" class="btn_acc btn btn-default ">
+<input type="radio">UK
+</label>
+<label title="Australian accent" id="id_ac_8" style='' data-lang="0" data-accent="12" class="btn_acc btn btn-default ">
+<input type="radio">AUS
+</label>
+<label title="Canadian accent" id="id_ac_16" style='display:none' data-lang="0" data-accent="13" class="btn_acc btn btn-default ">
+<input type="radio">CAN
+</label>
+<label title="Irish accent" id="id_ac_32" style='display:none' data-lang="0" data-accent="14" class="btn_acc btn btn-default ">
+<input type="radio">IE
+</label>
+<label title="Scottish accent" id="id_ac_64" style='display:none' data-lang="0" data-accent="15" class="btn_acc btn btn-default ">
+<input type="radio">SCO
+</label>
+<label title="New Zealand accent" id="id_ac_128" style='display:none' data-lang="0" data-accent="18" class="btn_acc btn btn-default ">
+<input type="radio">NZ
+</label>
+
+<button type='button' id="exp_accent_button" class="btn btn-default">
+<span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+</button>
+</div>
+</div>
+
+<div class='accents_panel'>
+<div class='ap_accents'>
+<label title="All accents" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_1" data-bitwise='1' class='accent_selection' checked type="checkbox">&nbsp;&nbsp;All
+</label>
+<label title="US accent" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_2" data-bitwise='2' class='accent_selection' checked type="checkbox">&nbsp;&nbsp;United States
+</label>
+<label title="UK accent" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_4" data-bitwise='4' class='accent_selection' checked type="checkbox">&nbsp;&nbsp;United Kingdom
+</label>
+<label title="Australian accent" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_8" data-bitwise='8' class='accent_selection' checked type="checkbox">&nbsp;&nbsp;Australian
+</label>
+<label title="Canadian accent" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_16" data-bitwise='16' class='accent_selection' type="checkbox">&nbsp;&nbsp;Canadian
+</label>
+<label title="Irish accent" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_32" data-bitwise='32' class='accent_selection' type="checkbox">&nbsp;&nbsp;Irish
+</label>
+<label title="Scottish accent" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_64" data-bitwise='64' class='accent_selection' type="checkbox">&nbsp;&nbsp;Scottish
+</label>
+<label title="New Zealand accent" class="btn_acc_sel btn btn-default">
+<input data-target-id="id_ac_128" data-bitwise='128' class='accent_selection' type="checkbox">&nbsp;&nbsp;New Zealand
+</label>
+</div>
+<div class='ap_controls'>
+<button type='button' class="closeBut btn btn-default">Close</button>
+</div>
+</div>
+<div id='serializeMe'>
+</div>
+</form>
+
+</div>
+</div>
+<div style='padding:10px'>
+<h1> Use YouTube to improve your English pronunciation. With more than 100M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context. </h1>
+<div style="padding:20px 0px 30px">
+Examples:
+<span class='expl'>
+<a class='nodec' href="/pronounce/power/english">power</a>,
+<a class='nodec' href="/pronounce/courage/english">courage</a>,
+<a class='nodec' href="/pronounce/coup%20de%20gr%C3%A2ce/english">coup de grâce</a>,
+<a class='nodec' href="/pronounce/how%27s%20it%20going%3F/english">how's it going?</a>
+<a class='advb' href="/#">
+(Advanced search)
+</a>
+</span>
+<div class="advp">
+<ul>
+<li>Search by word class: <a class='nodec' href="/pronounce/call%3Av">call<span class='cls'>(verb)</span></a>&nbsp;&nbsp;vs.&nbsp;<a class='nodec' href="/pronounce/call%3An">call<span class='cls'>(noun)</span></a>
+<li>Search by phrase class: <a class='nodec' href="/pronounce/lovely%20%3F">lovely<span class='cls'>(interrogative)</span></a>&nbsp;&nbsp;vs.&nbsp;
+<a class='nodec' href="/pronounce/lovely%20%21">lovely<span class='cls'>(exclamative)</span></a>
+<li>Search by gender: <a class='nodec' href="/pronounce/weather%20%3Am">weather<span class='cls'>(male)</span></a>&nbsp;&nbsp;vs.&nbsp;
+<a class='nodec' href="/pronounce/weather%20%3Af">weather<span class='cls'>(female)</span></a>
+<li>Search by context: <a class='nodec' href="/pronounce/power%20%23Obama">power<span class='cls'>(Obama)</span></a>&nbsp;&nbsp;vs.&nbsp;
+<a class='nodec' href="/pronounce/power%20%23Clinton">power <span class='cls'>(Clinton)</span></a>
+</ul>
+<ul style="list-style: none;">
+<li style='font-size:14px'>or any mix of them. More information <a class='nodec' href="/about">here</a>.
+</ul>
+</div>
+</div>
+</div>
+<div class='index_bottom_ad'>
+
+<div class='g_pr_ad_network' style="margin: 50px 0px 35px 0px">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4884889260645232" data-ad-slot="7157075410" data-ad-format="auto" data-full-width-responsive="true"></ins>
+</div>
+
+</div>
+</div>
+<div class="col-md-3">
+
+<div class='g_pr_ad_network' style='margin: 0px 5px 10px 5px'>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4884889260645232" data-ad-slot="3301590886" data-ad-format="auto" data-full-width-responsive="true"></ins>
+</div>
+
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<section style='padding:0px 0px 15px;' class="footer_langs">
+<em>YouGlish for:</em>
+<ul class="yg_languages">
+<li><a href="/arabic">Arabic</a></li>
+<li><a href="/chinese">Chinese</a></li>
+<li><a href="/dutch">Dutch</a></li>
+<li><a href="/">English</a></li>
+<li><a href="/french">French</a></li>
+<li><a href="/german">German</a></li>
+<li><a href="/greek">Greek</a></li>
+<li><a href="/hebrew">Hebrew</a></li>
+<li><a href="/italian">Italian</a></li>
+<li><a href="/japanese">Japanese</a></li>
+<li><a href="/korean">Korean</a></li>
+<li><a href="/polish">Polish</a></li>
+<li><a href="/portuguese">Portuguese</a></li>
+<li><a href="/russian">Russian</a></li>
+<li><a href="/spanish">Spanish</a></li>
+<li><a href="/turkish">Turkish</a></li>
+<li><a href="/signlanguage">Sign Languages</a></li>
+</ul>
+</section>
+<section style='padding:15px 0px 5px;border-top: 1px solid #ccc;' class="footer_langs">
+<em>Choose your language:</em>
+<ul class="user_languages">
+<li><a href="https://youglish.com/">English</a></li>
+<li><a href="https://fr.youglish.com/">Fran&#231;ais</a></li>
+<li><a href="https://es.youglish.com/">Espa&#241;ol</a></li>
+<li><a href="https://it.youglish.com/">Italiano</a></li>
+<li><a href="https://pt.youglish.com/">Portugu&#234;s</a></li>
+<li><a href="https://de.youglish.com/">Deutsch</a></li>
+<li><a href="https://ar.youglish.com/">العربية</a></li>
+</ul>
+</section>
+<section id="footer_nav">
+<nav>
+<ul>
+<li><a href="https://youglish.com">HOME</a></li>
+<li><a href="/about">ABOUT</a></li>
+<li><a href="/contact">CONTACT</a></li>
+<li><a href="/terms">PRIVACY & TERMS</a></li>
+<li><a href="/settings">SETTINGS</a></li>
+<li><a href="/api">API</a></li>
+<li><a href="/browse">BROWSE</a></li>
+<li><a href="/donations">CONTRIBUTE</a></li>
+<li style='position:relative;top:5px;' class='social-icons'>
+ <div style='background-color: #111;' class="hand social fb"></div>
+<div style='background-color: #111;' class="hand social tw"></div>
+</li>
+</ul>
+</nav>
+<div style='margin-top:10px;' id="footer_donate">
+<a href="/donations"><img src="/images/paypal.png" title="donate!" height="30"></a>
+</div>
+</section>
+</div>
+</footer>
+<script defer src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+
+	var params = {};
+	params.reqType = 4;
+	params.userLang = 0;
+	params.bLocal = false;
+	params.ck_v = 'a1';
+	params.jsLang = 0;
+
+	var accentsRequestedStr = '15';
+
+	function initHP(){
+		$('.advb').click(function(e){
+			$('.advp').slideToggle('fast');
+		  e.preventDefault();
+		});
+	}
+
+
+</script>
+<script defer onload="Y.init(params)" src="/public/bundle.min__9.4__.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72921158-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=985375064853327";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+		document.addEventListener("DOMContentLoaded", function() {
+
+		  	var els = document.getElementsByClassName("adsbygoogle");
+		  	Array.prototype.forEach.call(els, function(elem) {
+		  	    // Do stuff here
+		  	    var bVsisible = !!(elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length);
+//console.log("checking elem: " + elem.className + " -bVsisible: " + bVsisible);
+		  	    if (bVsisible)
+				      (adsbygoogle = window.adsbygoogle || []).push({});
+		  	    else
+				  	  elem.parentNode.removeChild(elem);
+		  	});
+
+		});
+	</script>
+</body>
+</html>

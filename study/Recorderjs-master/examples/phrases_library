@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Phrases Library</title>
+  <style media="screen">
+    .wordstyle {
+      padding: 25px;
+			height: 800px;
+			margin-left: 0px;
+			margin-right: 0px;
+			background-color: #9DB5B2;
+    	justify-content: center;
+    	align-items: center;
+    }
+    .header{
+			height: 250px;
+			margin-top: -10px;
+			display: flex;
+    	justify-content: center;
+    	align-items: center;
+			margin-left: -10px;
+			margin-right: -10px;
+			background-color: #94D1BE;
+		}
+    .myfont1 {
+      font-size: 50px;
+      font-family: impact;
+    }
+  </style>
+</head>
+<body bgcolor="#94D1BE">
+  <div class="header">
+    <p class="myfont1">國中常用片語</p>
+  </div>
+  <div class="wordstyle">
+    <center>
+      <a href="javascript:void(0)" onclick="handler()">in danger</a><br>
+      <a href="javascript:void(0)" onclick="handler()">in fact</a><br>
+      <a href="javascript:void(0)" onclick="handler()">in front of</a><br>
+      <a href="javascript:void(0)" onclick="handler()">in back of</a><br>
+      <a href="javascript:void(0)" onclick="handler()">in need of</a><br>
+      <a href="javascript:void(0)" onclick="handler()">in order to</a><br>
+      <a href="javascript:void(0)" onclick="handler()">in other words</a><br>
+      <a href="javascript:void(0)" onclick="handler()">in person</a><br>
+    </center>
+  </div>
+  <script type="text/javascript">
+    function handler(){
+      //WihqHrR7XLw
+      //alert("yes");
+      //window.navigate("videotest.html");
+      self.location="videotest.html?0";
+    }
+  </script>
+</body>
+</html>
